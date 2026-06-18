@@ -26,7 +26,6 @@ El cual no es sólo un Software libre de Bugs buscando ser compilado...es la uni
   "ubicacion": "Santiago, Chile",
   "disponibilidad": "Inmediata",
   "modalidad": "Presencial / Remoto / Híbrido",
-  "foco_de_aprendizaje": ["Java Avanzado", "Bases de Datos Relacionales", "Arquitectura de Software"]
 }
 
 ```
@@ -44,19 +43,6 @@ El cual no es sólo un Software libre de Bugs buscando ser compilado...es la uni
 ###  Diseño, UX/UI & Gestión
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Maze](https://img.shields.io/badge/Maze-FF0056?style=for-the-badge&logo=maze&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-
-Conocimientos actuales
-
-HTML5: estructura y contenido de páginas web.
-CSS3: estilos, diseño responsivo y modo oscuro.
-JavaScript: fundamentos y manipulación básica de páginas web.
-Java: programación orientada a objetos.
-Spring Boot: desarrollo de aplicaciones web.
-Spring Security: autenticación y autorización.
-JPA e Hibernate: persistencia de datos.
-SQL y MySQL: bases de datos relacionales.
-Git y GitHub: control de versiones.
-IntelliJ IDEA: entorno principal de desarrollo.
 
 
 ---
