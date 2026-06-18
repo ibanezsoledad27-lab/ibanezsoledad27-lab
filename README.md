@@ -22,7 +22,7 @@ El cual no es sólo un Software libre de Bugs buscando ser compilado...es la uni
 ```json
 
 {
-  "rol": "Diseño Industrial & UX/UI / Desarrolladora Full Stack Java Nivel Trainee",
+  "rol": "Desarrolladora Full Stack Java Nivel Trainee / "Diseño UX /UI - Industrial",
   "ubicacion": "Santiago, Chile",
   "disponibilidad": "Inmediata",
   "modalidad": "Presencial / Remoto / Híbrido",
